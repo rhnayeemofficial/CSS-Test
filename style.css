@@ -1,0 +1,76 @@
+ul li {
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    float: left;
+    padding: 12px 22px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(15, 139, 63);
+}
+ul{
+   margin-left: 350px;
+   padding: 0;
+}
+.header{
+    height: 42px;
+    background-color:rgb(100, 173, 3);
+}
+.html{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+   
+}
+.css{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+}
+.bootstrap{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+}
+.html, .css, .bootstrap{
+    float: left;
+    margin: 10px;
+    background-color: paleturquoise;
+}
+h3, h1{
+    text-align: center;
+}
+.suhi{
+    color:goldenrod;
+    font-size: xx-large;
+}
+.huti, .cuti, .booti{
+    color: aquamarine;
+}
+.group{
+    margin-left: 10px;
+}
+.service{
+    background-color: aqua;    height: 380px;
+    margin-top: -26px;
+   
+}
+.main{
+    margin-left: 40px;
+}
+.footer{
+    background-color: rgb(43, 44, 51);
+    
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+   
+
+}
+.upor{
+    padding-bottom: 20px;
+    padding-top: 110px;
+}
+.see{
+    padding-top: 20px;
+}
